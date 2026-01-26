@@ -1,4 +1,4 @@
-# Playwright Automation – SauceDemo (POM + Global Authentication)
+# Task 1: Playwright Architecture (POM & State Management)
 
 This project demonstrates a scalable Playwright automation framework using:
 - Page Object Model (POM)
