@@ -186,5 +186,5 @@ This project follows Playwright best practices and demonstrates:
 - Efficient authentication handling
 - Clean and maintainable test design
 
-Ideal for real-world projects and interview demonstrations.
+
 
